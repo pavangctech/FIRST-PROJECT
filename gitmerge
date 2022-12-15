@@ -1,13 +1,4 @@
-Step 1: Install Apache Tomcat
-Step 2: Download tomcat packages from https://tomcat.apache.org/download-80.cgi onto /opt on EC2 instance
-wget (tomcat URL)
-Step 3: Unzip downloaded tomcat tar
-tar -xzvf (tar file)
-Step 4: After tomcat unzipped, you can check all tomcat binary files bin folder
-Step 5: Check startup.sh / shutdown.sh to start and stop tomcat server.
-Java must be installed before starting tomcat server
-./startup.sh---It will start your tomcat server
-Check tomcate URL using IP Address with tomcat port :8080
-$(dirname $(readlink -f $(which javac))-To check Java JDK path
-Step 6: If we want we can add Java path in below linux default file i.e  .bash_profile 
-To Set Path in Linux: .bash_profile
+Enter @Botfather in the search tab and choose this bot.
+Choose or type the /newbot command and send it.
+Choose a name for your bot — your subscribers will see it in the conversation. ...
+Go to the @BotFather bot and send the command /token .
