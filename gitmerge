@@ -1,13 +1,12 @@
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
+EC2 Instance Connect
 
-    git config --global --edit
+Session Manager
 
-After doing this, you may fix the identity used for this commit with:
+SSH client
 
-    git commit --amend --reset-author
-
- 1 file changed, 7 insertions(+), 13 deletions(-
+EC2 serial console
+Instance ID
+i-0f3ac8ebcb0fe7903 (pavan1)
+Public IP address
+ 3.108.215.68
+User name
