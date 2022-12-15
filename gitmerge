@@ -1,4 +1,13 @@
-Enter @Botfather in the search tab and choose this bot.
-Choose or type the /newbot command and send it.
-Choose a name for your bot — your subscribers will see it in the conversation. ...
-Go to the @BotFather bot and send the command /token .
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 13 deletions(-
