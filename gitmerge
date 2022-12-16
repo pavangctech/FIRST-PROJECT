@@ -1,6 +1,12 @@
-no
-no
-no
-no
-yes
-yes
+EC2 Instance Connect
+
+Session Manager
+
+SSH client
+
+EC2 serial console
+Instance ID
+i-0f3ac8ebcb0fe7903 (pavan1)
+Public IP address
+ 3.108.215.68
+User name
